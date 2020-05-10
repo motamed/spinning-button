@@ -1,1 +1,3 @@
 # spinning-button
+
+![](spinner.gif)
